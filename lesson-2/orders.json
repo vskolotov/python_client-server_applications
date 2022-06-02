@@ -1,0 +1,32 @@
+{
+    "orders": [
+        {
+            "item": "книга",
+            "quantity": 5,
+            "price": 245,
+            "buyer": "Ozon",
+            "date": "20.04.2022"
+        },
+        {
+            "item": "тетрадь",
+            "quantity": 50,
+            "price": 24,
+            "buyer": "Озон",
+            "date": "22.04.2022"
+        },
+        {
+            "item": "книга",
+            "quantity": 5,
+            "price": 245,
+            "buyer": "Ozon",
+            "date": "20.04.2022"
+        },
+        {
+            "item": "тетрадь",
+            "quantity": 50,
+            "price": 24,
+            "buyer": "Озон",
+            "date": "22.04.2022"
+        }
+    ]
+}
